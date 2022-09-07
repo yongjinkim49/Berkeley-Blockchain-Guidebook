@@ -1,3 +1,6 @@
+# Examples
+
+
 **Enterprise Ethereum (private):** Actually, Enterprise Ethereum is actually one of the recent additions. Ethereum is actually a public blockchain that got traction based on the features it introduced. But it was difficult for enterprise companies to even use up those features as it’s fully a public network.
 
 So EEA(Enterprise Ethereum Alliance) started to roll out an Ethereum private blockchain version just for the sake of commercial use. Thereby, this Ethereum private blockchain offers a new type of private network that uses public network benefits as well. More so, the Ethereum private blockchain also updates based on the public network as well. So, it can continue to grow into a vaster network.
