@@ -28,9 +28,15 @@ And because of this inherent difference in design of the software, they are not 
 
 As a quick summary, Corda acquires most of its use cases from the financial service industry. Hyperledger, on the other hand, offers an extendable, modular architecture in multiple industries.
 
+## Hyperledger
+
 In **Hyperledger**, the governing peers allow and provide permission to other nodes for any sort of transaction. This type of access control can be done on node, channel or even consortium levels. Rather than the sequential execution of transactions, multiple transactions can be executed simultaneously that enhances the performance of the system. For transactions to be executed and affirmed, Hyperledger follows the KAFKA and the RAFT algorithms to arrive at a consensus. Hyperledger uses the Chaincode as its business logic. Chaincode can be written in any standard programming language like Node.js, Go, and Java. It also facilitates the creation of native currencies as well as digital tokens using the FabToken management system.
 
+## Corda
+
 **Corda** has file based configurations to access nodes and their permissions. Contrary to other blockchains, in Corda, data is shared only on a need-to-know basis instead of global broadcasts. Corda was designed to specially serve banks and financial institutions and overcome challenges faced by this particular field. Hence, Corda coined the “Notaries” concept wherein the notaries validate the transactions and add blocks to the chain. Since Corda was developed for banks and financial institutes which emphasizes the need of a legal agreement between participants. Thus, Corda implements smart contracts coupled with Ricardian contracts to obtain validity and security. For Corda, the smart contract can be written using Java or Kotlin programming languages. Note that Corda also offers an SDK that allows the development of native tokens, issuance and trading of the tokens.
+
+## Quorum
 
 Whereas in **Quorum**, node permissioning is specified in smart contracts. Technically speaking, a json file containing a permission flag is maintained for it. Quorum uses a protocol called the QuorumChain to reach consensus. A simple voting process that confirms transactions using majority coupled with BFT and RAFT algorithms are used by this blockchain. It is also noteable that Quorum supports both public and private contracts which are written in Solidity programming language. In case of Quorum, the JPM coin is its digital currency.
 
