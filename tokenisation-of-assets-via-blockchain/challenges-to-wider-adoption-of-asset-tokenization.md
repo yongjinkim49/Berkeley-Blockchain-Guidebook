@@ -1,0 +1,5 @@
+# Challenges to wider adoption of asset tokenization
+
+The legal status of smart contracts still remains to be defined, as these are still not considered to be legal contracts in most jurisdictions. This instills uncertainty among investors on whether their legal rights are appropriately protected. If a smart contract does not give rise to binding legal obligations, the rights of transacting parties cannot be enforceable in the event of a technology glitch. In this regard, permissioned blockchains may relatively be more welcomed from a regulatory standpoint.&#x20;
+
+There also should be a reliant means through which one can maintain and give the confidence thereof for, the interconnectedness of traditional marketplaces for an asset with the blockchain-based decentralized ounces for the tokenized representation of such asset. This is more of a concern if the traditional assets trade for some parts of the day or week since on-chain equivalents would be tradeable 24-7. It is important to minimize or prevent potential bifurcation between the two.

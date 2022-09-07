@@ -1,0 +1,5 @@
+# Fast-forward
+
+Many Defi ups and downs happened till we arrive today. Given that 2021 was the for DAOs, in 2022 the most notable thing that happened to Defi is the emergence of Ethereum 2.0. After the first phase of Ethereum 2.0’s release in 2020, the entire release is not anticipated to occur until at least 2023. Ethereum 2.0 was initially expected to launch in 2019, but there have been multiple significant delays throughout the course of its development. The mainnet’s integration with Ethereum 2.0’s Beacon Chain will enable complete staking as the next stage of the Ethereum upgrade. The capacity of the blockchain will thereafter be increased with the introduction of Ethereum shard chains in 2023.
+
+Competition between Defi on Layer 2, Defi on Ethereum 2.0, Defi on Bitcoin, and Defi on other chains will also play a big role. Interoperability protocols and cross-chain liquidity may become really important. Other areas, such as credit delegation and undercollateralized or non-collateralized loans, are also being explored.

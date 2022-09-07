@@ -1,0 +1,5 @@
+# Securities and Exchange Commission and Commodity Futures Trading Commission
+
+While the CFTC is in charge of commodities futures like agricultural and metals, the SEC is in charge of the securities markets, including stocks and bonds. Because of the active futures markets for ether and bitcoin (BTC) on exchanges like the CME, the CFTC has taken an interest in the cryptocurrency industry (ETH). As a result of its determination that some tokens are securities based on how they are promoted to the general public, the SEC has initiated action against cryptocurrency firms.&#x20;
+
+From CFTC legal framework, Bitcoin is a convertible virtual currency. Virtual currency is a digital representation of value that functions as a medium of exchange, a unit of account, and/or a store of value. Virtual currencies, such as Bitcoin, have been determined to be commodities under the Commodity Exchange Act (CEA). CFTC’s jurisdiction is implicated when a virtual currency is used in a derivatives contract, or if there is fraud or manipulation involving a virtual currency traded in interstate commerce.

@@ -1,0 +1,3 @@
+# Proof of Work
+
+Cryptocurrencies are decentralized, in contrast to fiat money, which is normally governed by a central organization like a bank. PoW lays the path for many cryptocurrencies, including Bitcoin and Ethereum, to function independently of a corporate or government. In order to prevent double spending — the use of a coin or token to support a transaction more than once — this consensus method is essential. It is essential to the process of confirming transactions and adding new blocks to the blockchain of Bitcoin. Each time a bitcoin miner completes PoW behind a block, the network approves it. If they are successful in solving the PoW, miners are compensated with BTC.

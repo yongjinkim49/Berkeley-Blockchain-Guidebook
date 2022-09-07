@@ -1,0 +1,3 @@
+# Maker
+
+Let’s start with Ethereum’s first Defi project, Maker. Using the Maker system, a decentralized stable coin called DAI can be produced. Rune Christensen founded the project in 2014 after being inspired by BitShares, a blockchain-based project started by Dan Larimer. Maker was created with venture capital funding and eventually released at the end of 2017. Only ETH was accepted as collateral in the protocol’s initial incarnation, Single Collateral DAI. Later, this was broadened to include Multi Collateral DAI, which debuted at the end of 2019. Maker is still one of the most significant Defi projects and was unquestionably a forerunner in the decentralized finance industry.
