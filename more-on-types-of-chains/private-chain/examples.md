@@ -14,7 +14,7 @@
 
 
 
-# More in-depth Analysis of Quorum, Hyperleger Fabric, and R3 Corda:
+# More in-depth Analysis of Popular Frameworks:
 
 
 We can focus on 3 key areas of functionality for these frameworks:
