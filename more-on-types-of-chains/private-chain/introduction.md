@@ -6,5 +6,3 @@ Its major features include full privacy, high efficiency, stability, & low fee: 
 
 There are notable providers of private blockchains, such as [Ripple](https://www.ripple.com/), [R3’s Corda](https://www.r3.com/platform/) and [Hyperledger Fabric](https://www.hyperledger.org/projects/fabric).&#x20;
 
-Here, we briefly outline the major features of some private blockchains:
-
