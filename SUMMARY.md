@@ -90,6 +90,7 @@
   * [Benefits](decentralized-finance/blockchain-testing/benefits.md)
   * [Challenges](decentralized-finance/blockchain-testing/challenges.md)
   * [Testing Tools](decentralized-finance/blockchain-testing/testing-tools.md)
+  * [Ganache](decentralized-finance/blockchain-testing/ganache.md)
 * [Historical moments](decentralized-finance/historical-moments/README.md)
   * [Bitcoin](decentralized-finance/historical-moments/bitcoin.md)
   * [Ethereum](decentralized-finance/historical-moments/ethereum.md)
