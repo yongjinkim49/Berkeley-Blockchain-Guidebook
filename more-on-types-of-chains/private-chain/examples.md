@@ -42,7 +42,7 @@ Whereas in **Quorum**, node permissioning is specified in smart contracts. Techn
 
 Hyperledger, Corda and Quorum all offer privacy, robust mechanism, scalability and enhance the blockchain performance. While Corda and Quorum have simple architecture, Hyperledger is more modular. Hence, it is upto organizations to decide which blockchain is more suitable and can be altered to their business needs.
 
-# Summarized Comparison of Some Private Blockchains:
+# Summarized Comparison of Major Enterprise Blockchains:
 
 | Protocols/Parameters | Ethereum | XDC | Cardano | Polkadot | Solana | Stellar | Cosmos | Ripple | Avalanche | NEAR |
 |---|---|---|---|---|---|---|---|---|---|---|
