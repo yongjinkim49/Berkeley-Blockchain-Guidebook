@@ -41,3 +41,27 @@ In **Hyperledger**, the governing peers allow and provide permission to other no
 Whereas in **Quorum**, node permissioning is specified in smart contracts. Technically speaking, a json file containing a permission flag is maintained for it. Quorum uses a protocol called the QuorumChain to reach consensus. A simple voting process that confirms transactions using majority coupled with BFT and RAFT algorithms are used by this blockchain. It is also noteable that Quorum supports both public and private contracts which are written in Solidity programming language. In case of Quorum, the JPM coin is its digital currency.
 
 Hyperledger, Corda and Quorum all offer privacy, robust mechanism, scalability and enhance the blockchain performance. While Corda and Quorum have simple architecture, Hyperledger is more modular. Hence, it is upto organizations to decide which blockchain is more suitable and can be altered to their business needs.
+
+# Summarized Comparison of Some Private Blockchains:
+
+| Protocols/Parameters | Ethereum | XDC | Cardano | Polkadot | Solana | Stellar | Cosmos | Ripple | Avalanche | NEAR |
+|---|---|---|---|---|---|---|---|---|---|---|
+| TPS | 30 approx. | 2000+ approx. | 250 approx. | 166.6 approx. | 1954 approx. | 2500+ approx. | 1000 approx. | 1500 approx. | 10.29 approx. | up to 1,000,000 |
+| Smart Contracts | Yes <br>(EVM) | Yes | Yes <br>(KEVM) | Parachains <br>(EVM, Wasm) | Yes <br>(Solana BPF) | Yes | Yes <br>(JS, CosmWasm, <br>EVM) | No | Yes <br>(C-Chain EVM based) | Yes |
+| Scalability | No | Yes <br>(Sharding) | No | Parachains | Yes <br>(Horizontal PoH) | Yes | Unlimited zones <br>(Horizontal and <br>vertical) | No <br>(Only by channels) | Yes <br>(Unlimited subnets, <br>shards like) | Yes |
+| On-Chain Governance | No | Yes | No | Yes | No <br>(Only for programs) | Yes | Yes | Yes | No | Yes |
+| Level of Decentralization | High | High | High | High | Low | High | High | Medium | Medium | High |
+| Interoperability | No | Yes | No | Yes | No | No | Yes | No | No | Yes |
+| Human Readable Address | Yes | Yes | No | No | Yes | Yes | Yes | No | No | Yes |
+| Gas Fee | $3 ~ $15 | Near 0 | Near 0 | Near 0 | Near 0 | Near 0 | Near 0 | Near 0 | Near 0 | Near 0 |
+| Digital Identity Management | Yes | Yes | No | No | No | Yes | Yes | No | No | Yes |
+| Deposit Time | 5 min | Near instant | Near instant | 2 min | Near instant | Near instant | Near instant | Near instant | 1 min | Near instant |
+| Decentralized Exchange | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes <br>(In Codebase) | Yes | Yes |
+| DeFi | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | Yes |
+| Data Privacy | No | Yes | No | No | No | Yes | Yes | No | No | No |
+| dApp | Yes | Yes | Yes | Yes | Yes | Yes | Yes | No | Yes | Yes |
+| Currency | ETH | XDC | ADA | DOT | SOL | XLM | ATOM | XRP | AVAX | NEAR |
+| Consensus Mechanism | Proof-of-Work | Delegated <br>Proof-of-Stake | Proof-of-Stake | Proof-of-Stake | Proof-of-Stake <br>based on BFT | Proof-of-Stake <br>based on <br>federated voting | Proof-of-Stake <br>based on BFT | Ripple Protocol <br>Consensus Algorithm <br>(RPCA) | Delegated <br>Proof-of-Stake <br>based on <br>Directed Acyclic Graph | Doomslug, <br>Threshold <br>Proof-of-Stake |
+| Chain Generation | 2nd Gen | 3rd Gen | 3rd Gen | 3rd Gen | 2nd Gen | 3rd Gen | 3rd Gen | 1st Gen | 2nd Gen | 3rd Gen |
+| Block Time | 14 secs | 2 secs | 20 secs | 6 secs | 0.8 secs | 3 ~ 5 secs | 7 secs | 4 secs | 3 secs | 1.3 secs |
+
