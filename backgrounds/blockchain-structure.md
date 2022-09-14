@@ -12,7 +12,7 @@ First of all, there are three basic components in the blockchain structure:
 
 The simple structure of a blockchain is shown in the Figure below, where the later blocks are linked into a chain by recording the hash value of the previous blocks. The blockchain is designed to pack and add a new block every once in a while, and this block is generated through the consensus protocol that we will mention later.
 
-![Example of the Basic Blockchain Structure](<../.gitbook/assets/image (3).png>)
+![Example of the Basic Blockchain Structure](<../.gitbook/assets/image (45).png>)
 
 In the article “Bitcoin: A Peer-to-Peer Electronic Cash System” \[1], the user first initiates a transaction request through the client, which is propagated to the network and awaits confirmation. The node in the network will pack multiple transaction requests and add hash values and other information to form a block structure. Then the node will try to find a nonce random string through computation so that its hash result meets a specific requirement, and this whole process is often referred to as “mining”. When a node finds a nonce that satisfies the requirement, it submits a block that is broadcast to the network, and when other nodes receive this block, they verify it and add it to the local ledger.
 

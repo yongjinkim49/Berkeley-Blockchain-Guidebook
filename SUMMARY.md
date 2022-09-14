@@ -28,26 +28,8 @@
 * [Zero Knowledge](cryptographic-fundamentals/zero-knowledge/README.md)
   * [History of zk-SNARK](cryptographic-fundamentals/zero-knowledge/history-of-zk-snark.md)
 
-## More on types of chains
-
-* [Public Chain](more-on-types-of-chains/public-chain/README.md)
-  * [Intro](more-on-types-of-chains/public-chain/intro.md)
-  * [Advantages](more-on-types-of-chains/public-chain/advantages.md)
-  * [Disadvantages](more-on-types-of-chains/public-chain/disadvantages.md)
-  * [Proof of Work](more-on-types-of-chains/public-chain/proof-of-work.md)
-  * [Page 1](more-on-types-of-chains/public-chain/page-1.md)
-* [Private Chain](more-on-types-of-chains/private-chain/README.md)
-  * [Introduction](more-on-types-of-chains/private-chain/introduction.md)
-  * [Advantage](more-on-types-of-chains/private-chain/advantage.md)
-  * [Disadvantage](more-on-types-of-chains/private-chain/disadvantage.md)
-  * [Intercom Integration](more-on-types-of-chains/private-chain/intercom-integration.md)
-* [Consortium Chain](more-on-types-of-chains/consortium-chain/README.md)
-  * [GitHub Integration](more-on-types-of-chains/consortium-chain/github-integration.md)
-
 ## Applications
 
-* [use cases](applications/use-cases/README.md)
-  * [Figma Integration](applications/use-cases/figma-integration.md)
 * [Bitcoins](applications/bitcoins/README.md)
   * [Intro](applications/bitcoins/intro.md)
   * [How it Works](applications/bitcoins/how-it-works.md)
@@ -55,27 +37,21 @@
   * [Consensus](applications/bitcoins/consensus.md)
   * [Security](applications/bitcoins/security.md)
   * [Applications](applications/bitcoins/applications.md)
-  * [Bitcoin Implementation](applications/bitcoins/bitcoin-implementation.md)
 * [Ethereum](applications/ethereum/README.md)
   * [Intro](applications/ethereum/intro.md)
   * [How it works](applications/ethereum/how-it-works.md)
   * [The Merge](applications/ethereum/the-merge.md)
-  * [Go Ethereum](applications/ethereum/go-ethereum.md)
-  * [Intercom Integration](applications/ethereum/intercom-integration.md)
+  * [Related Tools](applications/ethereum/related-tools.md)
+* [Dev Stack](applications/dev-stack/README.md)
+  * [IDE](applications/dev-stack/ide.md)
+  * [Framework](applications/dev-stack/framework.md)
+  * [Smart Contract Language](applications/dev-stack/wallet.md)
+  * [Blockchain Testing](applications/dev-stack/zksnark.md)
+  * [L2 Tools](applications/dev-stack/l2-tools.md)
+* [Smart Contracts](applications/smart-contracts.md)
 * [Hyperledger Fabric](applications/hyperledger-fabric.md)
 * [zkSync](applications/zksync/README.md)
   * [EcoSystem](applications/zksync/ecosystem.md)
-* [Dev Stack](applications/dev-stack/README.md)
-  * [L2 Tools](applications/dev-stack/l2-tools.md)
-  * [wallet](applications/dev-stack/wallet.md)
-  * [Go-lang](applications/dev-stack/go-lang.md)
-  * [Rust](applications/dev-stack/rust.md)
-  * [zksnark](applications/dev-stack/zksnark.md)
-  * [Truffle](applications/dev-stack/truffle.md)
-  * [Remix](applications/dev-stack/remix.md)
-  * [Embark](applications/dev-stack/embark.md)
-* [Smart Contracts](applications/smart-contracts.md)
-* [Web3 and Beyond](applications/web3-and-beyond.md)
 
 ## Tokenisation of assets via blockchain
 
@@ -86,10 +62,6 @@
 
 ## Decentralized Finance
 
-* [Blockchain Testing](decentralized-finance/blockchain-testing/README.md)
-  * [Benefits](decentralized-finance/blockchain-testing/benefits.md)
-  * [Challenges](decentralized-finance/blockchain-testing/challenges.md)
-  * [Testing Tools](decentralized-finance/blockchain-testing/testing-tools.md)
 * [Historical moments](decentralized-finance/historical-moments/README.md)
   * [Bitcoin](decentralized-finance/historical-moments/bitcoin.md)
   * [Ethereum](decentralized-finance/historical-moments/ethereum.md)
@@ -121,8 +93,30 @@
 
 ## To do
 
-* [Create your own blockchain](to-do/create-your-own-blockchain.md)
+***
+
+* [Create your own blockchain](create-your-own-blockchain.md)
 
 ## Extras
 
 * [Appendix](extras/appendix.md)
+
+## Archive
+
+* [Blockchain Testing](archive/blockchain-testing/README.md)
+  * [Benefits](archive/blockchain-testing/benefits.md)
+  * [Challenges](archive/blockchain-testing/challenges.md)
+  * [Testing Tools](archive/blockchain-testing/testing-tools.md)
+  * [Ganache](archive/blockchain-testing/ganache.md)
+* [Public Chain](archive/public-chain/README.md)
+  * [Intro](archive/public-chain/intro.md)
+  * [Advantages](archive/public-chain/advantages.md)
+  * [Disadvantages](archive/public-chain/disadvantages.md)
+  * [Proof of Work](archive/public-chain/proof-of-work.md)
+* [Private Chain](archive/private-chain/README.md)
+  * [Introduction](archive/private-chain/introduction.md)
+  * [Advantage](archive/private-chain/advantage.md)
+  * [Disadvantage](archive/private-chain/disadvantage.md)
+  * [Examples](archive/private-chain/examples.md)
+* [Consortium Chain](archive/consortium-chain/README.md)
+  * [GitHub Integration](archive/consortium-chain/github-integration.md)
