@@ -6,7 +6,7 @@
 
 As shown in the table below, the types of blockchain are divided into Public chain, Private chain, and Consortium chain [\[1\]](types-of-blockchain.md#undefined). The core difference between them is the read and write access and the degree of decentralization. Public chains are open to everyone, private chains are open to individuals who meet certain conditions, and consortium chains are open to authorized organizations or institutions. In essence, consortium chains also belong to private chains, but the degree of privatization is different. Generally speaking, the higher the degree of decentralization, the higher the trustworthiness, and the lower the transaction efficiency.
 
-![Comparison of Different Types of Blockchain](<../.gitbook/assets/image (11).png>)
+![Comparison of Different Types of Blockchain](<../.gitbook/assets/image (36).png>)
 
 **Public Blockchain**
 
