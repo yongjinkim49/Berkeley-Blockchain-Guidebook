@@ -43,6 +43,7 @@
   * [The Merge](applications/ethereum/the-merge.md)
   * [Related Tools](applications/ethereum/related-tools.md)
 * [Dev Stack](applications/dev-stack/README.md)
+  * [Web3 Programming](applications/dev-stack/web3-programming.md)
   * [IDE](applications/dev-stack/ide.md)
   * [Framework](applications/dev-stack/framework.md)
   * [Smart Contract Language](applications/dev-stack/wallet.md)
@@ -92,8 +93,6 @@
 * [Securities and Exchange Commission and Commodity Futures Trading Commission](regulation/securities-and-exchange-commission-and-commodity-futures-trading-commission.md)
 
 ## To do
-
-***
 
 * [Create your own blockchain](create-your-own-blockchain.md)
 
