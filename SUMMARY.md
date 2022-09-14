@@ -117,5 +117,6 @@
   * [Introduction](archive/private-chain/introduction.md)
   * [Advantage](archive/private-chain/advantage.md)
   * [Disadvantage](archive/private-chain/disadvantage.md)
+  * [Examples](archive/private-chain/examples.md)
 * [Consortium Chain](archive/consortium-chain/README.md)
   * [GitHub Integration](archive/consortium-chain/github-integration.md)
