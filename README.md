@@ -1,4 +1,4 @@
-# Introduction
+# Introduction of the Project
 
 {% hint style="info" %}
 **Good to know:** This is currently a very early project and is still under initial development by a group of MFE (Master of Financial Engineering) from UC Berkeley. This will be published soon once the crucial pillars are set.
