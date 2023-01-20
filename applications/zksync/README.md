@@ -4,7 +4,7 @@
 
 [zkSync](https://zksync.io/) is a trustless, scalable and low-cost solution on Ethereum. It uses zero-knowledge proofs and zkRollup technology to protect the privacy of on-chain information. It can provide cheaper and faster transactions than the Ethereum main chain (layer 1). As a layer 2 solution, it removed most of the activity from layer 1 while still maintaining its security and consistency.
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption><p><a href="https://docs.zksync.io/userdocs/roadmap/">Sync2.0 Releasing Roadmap</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption><p><a href="https://docs.zksync.io/userdocs/roadmap/">Sync2.0 Releasing Roadmap</a></p></figcaption></figure>
 
 ## Key benefits of zkSync:
 

@@ -1,9 +1,5 @@
 # CAP Therom
 
-{% hint style="info" %}
-**Good to know:** TODO
-{% endhint %}
-
 Distributed computing systems cannot guarantee the following three characteristics at the same time: strong consistency, high availability, and partitioning. Therefore, in the design of distributed systems, it is often necessary to weaken the guarantee of one of the characteristics [\[1\]](cap-therom.md#reference).
 
 * **Strong consistency:** all nodes in the distributed system can see the same data content at any time.

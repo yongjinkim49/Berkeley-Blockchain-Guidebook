@@ -1,6 +1,6 @@
-# Why this is important for a DeFi/CeDeFi service
+# Blockchain's Implications for Tokenization
 
-As notified previously, we will delve into the DeFi/CeDeFi case studies in the next deliverable both from the institutional aspect and the startup aspect. In that respect, particularly for finance, it is important to understand the overall background and literature on the tokenisation of assets via blockchain since there are several attempts both from institutions and startups to make use of blockchain for tokenisation of assets for off-chain assets mirrored on-chain or sometimes blockchain native assets.&#x20;
+Particularly for finance, it is important to understand the overall background and literature on the tokenisation of assets via blockchain since there are several attempts both from institutions and startups to make use of blockchain for tokenisation of assets for off-chain assets mirrored on-chain or sometimes blockchain native assets.&#x20;
 
 
 

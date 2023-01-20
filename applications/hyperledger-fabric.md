@@ -1,2 +1,0 @@
-# Hyperledger Fabric
-

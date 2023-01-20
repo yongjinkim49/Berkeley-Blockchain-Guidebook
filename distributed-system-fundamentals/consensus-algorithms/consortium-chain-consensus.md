@@ -45,7 +45,7 @@ Consistency protocol is the core component of the entire PBFT algorithm, which e
 
 
 
-![Practical Byzantine Fault Tolerance Communication Graph](<../../.gitbook/assets/image (35).png>)
+![Practical Byzantine Fault Tolerance Communication Graph](<../../.gitbook/assets/image (48).png>)
 
 
 

@@ -20,16 +20,17 @@
 
 ## Cryptographic Fundamentals
 
-* [Hash Algorithm](cryptographic-fundamentals/hash-algorithm.md)
+* [Intro](cryptographic-fundamentals/hash-algorithm.md)
+* [Hash Algorithm and Merkel Tree](cryptographic-fundamentals/hash-algorithm-and-merkel-tree.md)
 * [Encryption and Decryption](cryptographic-fundamentals/encryption-and-decryption.md)
-* [Signature and MAC](cryptographic-fundamentals/signature-and-mac.md)
-* [Digital Certification](cryptographic-fundamentals/digital-certification.md)
-* [Merkel Tree](cryptographic-fundamentals/merkel-tree.md)
-* [Zero Knowledge](cryptographic-fundamentals/zero-knowledge/README.md)
-  * [History of zk-SNARK](cryptographic-fundamentals/zero-knowledge/history-of-zk-snark.md)
+* [Signature and HMAC](cryptographic-fundamentals/signature-and-mac.md)
 
 ## Applications
 
+* [Stablecoins](applications/stablecoins/README.md)
+  * [Stablecoins: definitions, types, and use-cases](applications/stablecoins/stablecoins-definitions-types-and-use-cases.md)
+  * [PagTerra-Luna Case: The Start of Doubt:](applications/stablecoins/pagterra-luna-case-the-start-of-doubt.md)
+  * [DAI: The Rise and Inevitable Fall:](applications/stablecoins/dai-the-rise-and-inevitable-fall.md)
 * [Bitcoins](applications/bitcoins/README.md)
   * [Intro](applications/bitcoins/intro.md)
   * [How it Works](applications/bitcoins/how-it-works.md)
@@ -48,15 +49,21 @@
   * [Framework](applications/dev-stack/framework.md)
   * [Smart Contract Language](applications/dev-stack/wallet.md)
   * [Blockchain Testing](applications/dev-stack/zksnark.md)
+  * [Ethernet Interoperation](applications/dev-stack/ethernet-interoperation/README.md)
+    * [Front End Tool](applications/dev-stack/ethernet-interoperation/front-end-tool.md)
+    * [Back End Tool](applications/dev-stack/ethernet-interoperation/back-end-tool.md)
+    * [Platform as a service(PaaS](applications/dev-stack/ethernet-interoperation/platform-as-a-service-paas.md)
+    * [ABE](applications/dev-stack/ethernet-interoperation/abe.md)
   * [L2 Tools](applications/dev-stack/l2-tools.md)
-* [Smart Contracts](applications/smart-contracts.md)
-* [Hyperledger Fabric](applications/hyperledger-fabric.md)
+  * [Security Tool](applications/dev-stack/security-tool.md)
+  * [Monitoring and Management](applications/dev-stack/monitoring-and-management.md)
+  * [Summary](applications/dev-stack/summary.md)
 * [zkSync](applications/zksync/README.md)
   * [EcoSystem](applications/zksync/ecosystem.md)
 
 ## Tokenisation of assets via blockchain
 
-* [Why this is important for a DeFi/CeDeFi service](tokenisation-of-assets-via-blockchain/why-this-is-important-for-a-defi-cedefi-service.md)
+* [Blockchain's Implications for Tokenization](tokenisation-of-assets-via-blockchain/why-this-is-important-for-a-defi-cedefi-service.md)
 * [Tokenisation](tokenisation-of-assets-via-blockchain/tokenisation.md)
 * [Benefits of Tokenization](tokenisation-of-assets-via-blockchain/benefits-of-tokenization.md)
 * [Challenges to wider adoption of asset tokenization](tokenisation-of-assets-via-blockchain/challenges-to-wider-adoption-of-asset-tokenization.md)
@@ -92,13 +99,21 @@
 * [Untitled](regulation/untitled.md)
 * [Securities and Exchange Commission and Commodity Futures Trading Commission](regulation/securities-and-exchange-commission-and-commodity-futures-trading-commission.md)
 
+***
+
+* [What is DAO?](what-is-dao/README.md)
+  * [How does a DAO work?](what-is-dao/how-does-a-dao-work.md)
+  * [How to get involved?](what-is-dao/how-to-get-involved.md)
+  * [Top 5 DAOs:](what-is-dao/top-5-daos.md)
+  * [DAO Tooling:](what-is-dao/dao-tooling.md)
+
 ## To do
 
 * [Create your own blockchain](create-your-own-blockchain.md)
 
 ## Extras
 
-* [Appendix](extras/appendix.md)
+* [Appendix: Blockchain Glossary from A - Z](extras/appendix.md)
 
 ## Archive
 
@@ -119,3 +134,5 @@
   * [Examples](archive/private-chain/examples.md)
 * [Consortium Chain](archive/consortium-chain/README.md)
   * [GitHub Integration](archive/consortium-chain/github-integration.md)
+* [Zero Knowledge](archive/zero-knowledge/README.md)
+  * [History of zk-SNARK](archive/zero-knowledge/history-of-zk-snark.md)

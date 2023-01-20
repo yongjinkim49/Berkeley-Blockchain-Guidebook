@@ -2,10 +2,6 @@
 
 
 
-{% hint style="info" %}
-**Good to know:** TODO
-{% endhint %}
-
 ### Consistency in Distributed Systems
 
 In the book “Distributed Systems Concepts and Design” [\[1\]](consistency-problem.md#undefined), a distributed system is defined as a system in which hardware or software components are distributed across different network nodes; they communicate and coordinate with each other only through message passing. With the increasing complexity of network systems, most system designs have shifted from monolithic to distributed architectures, and non-traditional distributed systems led by blockchain have gained even more popularity in the past few years. Technologies such as blockchain, which are based on distributed technologies, are highly dependent on data consistency and consensus mechanisms, and in this section we will introduce each of these concepts.

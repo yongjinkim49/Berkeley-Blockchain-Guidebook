@@ -32,7 +32,7 @@ description: From official Solidity Guide
 4.  _**Order of Precedence of Operators**_\
     _****_
 
-    <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 5. _**Others**_\
    _****_\
    _****_\

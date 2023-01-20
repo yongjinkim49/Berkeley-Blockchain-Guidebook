@@ -1,9 +1,5 @@
 # Public Chain Consensus
 
-{% hint style="info" %}
-**Good to know:** TODO!
-{% endhint %}
-
 ### Proof of Work (PoW)
 
 PoW is the most common and original consensus algorithm used in blockchain applications. Its concept was first proposed by Cynthia Dwork and Moni Naor in 1993 [\[1\]](public-chain-consensus.md#reference), and was made more complete and coined in a 1999 article by Markus Jakobsson and Ari Juels [\[2\]](public-chain-consensus.md#reference). The main applications that use the PoW consensus algorithm are Bitcoin [\[3\]](public-chain-consensus.md#reference), which we know best, Ethereum [\[4\]](public-chain-consensus.md#reference), and Litecoin [\[5\]](public-chain-consensus.md#reference), which is popular in the cryptocurrency trading market, as well as Dogecoin [\[6\]](public-chain-consensus.md#reference), which is getting a lot of attention these days because of Elon Musk’s recommendation.&#x20;

@@ -12,7 +12,7 @@ We'll briefly cover a few of the highlights here.
 
 #### Argent
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>Argent with Guardian scheme <a href="https://www.argent.xyz/blog/a-new-era-for-crypto-security/">[1]</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Argent with Guardian scheme <a href="https://www.argent.xyz/blog/a-new-era-for-crypto-security/">[1]</a></p></figcaption></figure>
 
 Argent is a smart contract wallet. But it's not the same as mainstream wallets like Metamask and ImToken. It has no concept of a mnemonic/private key, but manages the wallet through the "Guardian".
 
@@ -28,7 +28,7 @@ Argent is a smart contract wallet. But it's not the same as mainstream wallets l
 
 ZigZag is a Layer 2 decentralized exchange powered by Zk-rollups. Its advantages are extremely low transaction costs and strong security and privacy.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 [\[official website\]](https://info.zigzag.exchange/)
 
@@ -40,7 +40,7 @@ ZigZag is a Layer 2 decentralized exchange powered by Zk-rollups. Its advantages
 
 #### **SynFutures**
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 SynFutures is a decentralized derivatives exchange based on zkSync. Its goal is to create a free and open derivatives market that levels the playing field for ordinary investors. With the new investment era, it democratizes futures markets by allowing users to make any trade at any time. And it has adopted more rigorous modeling and risk management systems, bringing best practices from traditional finance to DeFi.
 
@@ -54,7 +54,7 @@ SynFutures is a decentralized derivatives exchange based on zkSync. Its goal is 
 
 #### **Orbiter**
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 Orbiter Finance is a decentralized cross-rollup Layer 2 bridge with a contract only on the destination side.
 
@@ -68,7 +68,7 @@ Orbiter Finance is a decentralized cross-rollup Layer 2 bridge with a contract o
 
 Nomad is an optimistic interoperability protocol that enables trust-minimized cross-chain communication. Using Nomad, users can bridge assets and send arbitrary messages across chains securely.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Nomad has many of the characteristics found in optimistic roll-up **** mechanisms, such as public verification, low gas fee, and broad participation, but has a slightly different security model.
 
@@ -78,7 +78,7 @@ Nomad has many of the characteristics found in optimistic roll-up **** mechanism
 
 **deBridge**
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 deBridge is a cross-chain interoperability and liquidity transfer protocol that allows decentralized transfers of any arbitrary data and assets between various blockchains.
 
