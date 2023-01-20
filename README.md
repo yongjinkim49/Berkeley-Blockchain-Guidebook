@@ -1,7 +1,7 @@
 # Introduction
 
 {% hint style="info" %}
-**Good to know:** this is currently a very early project and is still under initial development by a group of MFE (Master of Financial Engineering) from UC Berkeley. This will be published soon once the crucial pillars are set.
+**Good to know:** This is currently a very early project and is still under initial development by a group of MFE (Master of Financial Engineering) from UC Berkeley. This will be published soon once the crucial pillars are set.
 {% endhint %}
 
 This is an open-source blockchain guidebook for anyone interested in blockchain, ranging from developers who wish to build on build on a blockchain (or a blockchain) and the newer folk who are just curious about this field. Feel free to contribute to this guidebook!
