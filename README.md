@@ -56,11 +56,11 @@ This is an open-source blockchain guidebook for anyone interested in blockchain,
 [consensus-algorithms](distributed-system-fundamentals/consensus-algorithms/)
 <!--- {% endcontent-ref %} -->
 
-{% content-ref url="distributed-system-fundamentals/flp-impossibility-principle.md" %} -->
+<!---  {% content-ref url="distributed-system-fundamentals/flp-impossibility-principle.md" %} -->
 [flp-impossibility-principle.md](distributed-system-fundamentals/flp-impossibility-principle.md)
-{% endcontent-ref %} -->
+<!---  {% endcontent-ref %} -->
 
-{% content-ref url="distributed-system-fundamentals/cap-therom.md" %} -->
+<!---  {% content-ref url="distributed-system-fundamentals/cap-therom.md" %} -->
 [cap-therom.md](distributed-system-fundamentals/cap-therom.md)
-{% endcontent-ref %} -->
+<!--- {% endcontent-ref %} -->
 
