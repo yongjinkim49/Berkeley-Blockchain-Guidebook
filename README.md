@@ -1,8 +1,8 @@
 # Introduction of the Project
 
-{% hint style="info" %}
+<!--- {% hint style="info" %} -->
 **Good to know:** This is currently a very early project and is still under initial development by a group of MFE (Master of Financial Engineering) from UC Berkeley. This will be published soon once the crucial pillars are set.
-{% endhint %}
+<!--- {% endhint %} -->
 
 This is an open-source blockchain guidebook for anyone interested in blockchain, ranging from developers who wish to build on build on a blockchain (or a blockchain) and the newer folk who are just curious about this field. Feel free to contribute to this guidebook!
 
@@ -33,34 +33,34 @@ This is an open-source blockchain guidebook for anyone interested in blockchain,
 
 ### Guides: Jump right in
 
-{% content-ref url="backgrounds/what-is-blockchain.md" %}
+<!--- {% content-ref url="backgrounds/what-is-blockchain.md" %} -->
 [what-is-blockchain.md](backgrounds/what-is-blockchain.md)
-{% endcontent-ref %}
+<!--- {% endcontent-ref %} -->
 
-{% content-ref url="backgrounds/blockchain-structure.md" %}
+<!--- {% content-ref url="backgrounds/blockchain-structure.md" %} -->
 [blockchain-structure.md](backgrounds/blockchain-structure.md)
-{% endcontent-ref %}
+<!--- {% endcontent-ref %} -->
 
-{% content-ref url="backgrounds/types-of-blockchain.md" %}
+<!--- {% content-ref url="backgrounds/types-of-blockchain.md" %} -->
 [types-of-blockchain.md](backgrounds/types-of-blockchain.md)
-{% endcontent-ref %}
+<!--- {% endcontent-ref %} -->
 
 
 ### Fundamentals: Dive a little deeper
 
-{% content-ref url="distributed-system-fundamentals/consistency-problem.md" %}
+<!--- {% content-ref url="distributed-system-fundamentals/consistency-problem.md" %} -->
 [consistency-problem.md](distributed-system-fundamentals/consistency-problem.md)
-{% endcontent-ref %}
+<!--- {% endcontent-ref %} -->
 
-{% content-ref url="distributed-system-fundamentals/consensus-algorithms/" %}
+<!--- {% content-ref url="distributed-system-fundamentals/consensus-algorithms/" %} -->
 [consensus-algorithms](distributed-system-fundamentals/consensus-algorithms/)
-{% endcontent-ref %}
+<!--- {% endcontent-ref %} -->
 
-{% content-ref url="distributed-system-fundamentals/flp-impossibility-principle.md" %}
+{% content-ref url="distributed-system-fundamentals/flp-impossibility-principle.md" %} -->
 [flp-impossibility-principle.md](distributed-system-fundamentals/flp-impossibility-principle.md)
-{% endcontent-ref %}
+{% endcontent-ref %} -->
 
-{% content-ref url="distributed-system-fundamentals/cap-therom.md" %}
+{% content-ref url="distributed-system-fundamentals/cap-therom.md" %} -->
 [cap-therom.md](distributed-system-fundamentals/cap-therom.md)
-{% endcontent-ref %}
+{% endcontent-ref %} -->
 
